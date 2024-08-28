@@ -2,6 +2,12 @@
 
 A web-based image editing tool built with React and Next.js.
 
+
+# Youtube Video Preview on Workability
+
+[![Youtube Video Preview](https://img.youtube.com/vi/5ffaiyeSiUc/0.jpg)](https://www.youtube.com/watch?v=5ffaiyeSiUc)
+
+
 ## Features
 
 - Upload images
