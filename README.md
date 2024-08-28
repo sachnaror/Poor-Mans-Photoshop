@@ -1,6 +1,6 @@
 # Poor Man's Photoshop
 
-A web-based image editing tool built with React and Next.js.
+A web-based image editing tool with limited functionality;  built with React and Next.js.
 
 
 # Youtube Video Preview on Workability
