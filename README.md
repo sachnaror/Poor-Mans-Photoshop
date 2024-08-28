@@ -1,4 +1,4 @@
-# Poor Man's Photosho
+# Poor Man's Photoshop
 
 A web-based image editing tool built with React and Next.js.
 
